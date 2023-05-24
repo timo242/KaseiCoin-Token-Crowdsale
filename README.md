@@ -20,18 +20,18 @@ Compile screenshots for KaseiCoin, KaseiCoinCrowdsale and KaseiCoinDeployer.
 ---
 ### Deployment with Metamask
 ---
-![crowd](./Images/deployed_ksi_1.png)
+![crowd](./Images/deployed_ksi_1a.png)
 ---
 ### Deployment with Metamask
 ---
-![crowd](./Images/deployed_ksi_2.png)
+![crowd](./Images/deployed_ksi_2a.png)
 ---
 ### Deployment with Metamask
 ---
-![crowd](./Images/deployed_ksi_3.png)
+![crowd](./Images/deployed_ksi_3a.png)
 ---
 ### Balance
-![crowd](./Images/deployed_ksi_4.png)
+![crowd](./Images/deployed_ksi_4a.png)
 ---
 ### Ganache
-![crowd](./Images/deployed_ksi_5.png)
+![crowd](./Images/deployed_ksi_5a.png)
